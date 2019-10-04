@@ -1,4 +1,4 @@
-package cn.gedobu.some.java.mec;
+package cn.gedobu.some.java.mec.controller;
 
 
 import cn.gedobu.some.java.mec.page.Page;

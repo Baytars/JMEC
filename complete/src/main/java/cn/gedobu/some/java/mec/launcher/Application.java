@@ -1,4 +1,4 @@
-package cn.gedobu.some.java.mec;
+package cn.gedobu.some.java.mec.launcher;
 
 import java.util.Arrays;
 
